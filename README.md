@@ -2,8 +2,11 @@
 <p>As a digital marketing firm, we help brands scale revenue and profits by driving sales through every touch point. Our work is about innovation and operational excellence. We guide our clients from strategy through execution, to achieve rapid growth and profitability.</p>
 
 <h2>Technologies We Work With</h2>
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 <!--
 **Mindrind/Mindrind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
